@@ -23,7 +23,7 @@ To run the Sugar Cosmetics Clown App locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/sugar-cosmetics-clown-app.git
+git clone https://github.com/Tapas-kp/sugarnew_proj.git
 Navigate to the project directory:
 bash
 Copy code
