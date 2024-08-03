@@ -1,3 +1,8 @@
+SugarCosmetics 
+
+![Uploading sugarscreenshot.png…]()
+
+
 
 Here's a template for your README.md file for your Sugar Cosmetics clown app:
 
