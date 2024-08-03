@@ -1,6 +1,7 @@
 SugarCosmetics 
 
-![Uploading sugarscreenshot.png…]()
+![sugarscreenshot](https://github.com/user-attachments/assets/9f2b03cd-b593-4ec2-973c-bf57dc8bcd33)
+
 
 
 
